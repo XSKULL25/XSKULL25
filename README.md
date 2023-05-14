@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @XSKULL25
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning app development / artificial intelligence / machine learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhinav Gupta
+- 🌱 I’m currently learning Data Science 
+- 📫 How to reach me abhinavgupta02525@gmail.com
 
 <!---
 XSKULL25/XSKULL25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
